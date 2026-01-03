@@ -25,7 +25,7 @@ with an emphasis on visualizing and comparing decision boundaries.
   between algorithms beyond performance metrics.
 
 ## Example Visualization
-![Decision Boundary](figures/decision_boundary_rf.png)
+![Decision Boundary](figures/decision_boundary_GB.png)
 
 ## How to Run
 ```bash
